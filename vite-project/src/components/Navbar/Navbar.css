@@ -1,0 +1,74 @@
+.logo {
+  width: 40px;
+  position: absolute;
+  left: -20px;
+}
+
+.nav-facts {
+  margin-left: 70px;
+}
+
+.navbar {
+  height: 60px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  background-color: #2b2929;
+}
+
+.nav-text {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
+  color: #00d8ff;
+  font-size: 1.8em;
+}
+
+.react-project1 {
+  margin-right: 1em;
+  white-space: nowrap;
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .nav-text {
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-around;
+  }
+
+  h1 {
+    font-size: medium;
+  }
+
+  .logo {
+    width: 30px;
+  }
+}
+
+.menu-trigger {
+  font-size: 1.2em;
+  width: 100px;
+  padding: 5px;
+  border-radius: 10px;
+  text-align: center;
+  color: #2b2929;
+  background-color: #00d8ff;
+}

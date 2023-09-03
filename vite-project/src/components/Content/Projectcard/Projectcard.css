@@ -1,0 +1,23 @@
+.card-body {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  max-height: 550px;
+  border: 2px solid #00d8ff;
+  border-radius: 30px;
+}
+
+.card-img {
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+
+.card-title {
+  font-size: 1.3em;
+  margin-left: 10px;
+}
+
+.card-description {
+  padding: 4px;
+  margin-left: 10px;
+}

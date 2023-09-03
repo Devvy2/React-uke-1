@@ -1,0 +1,18 @@
+.list-body {
+  text-align: center;
+}
+
+.list-title {
+  font-size: 2em;
+}
+
+ul {
+  display: inline-block;
+  text-align: start;
+  font-size: 1.5em;
+}
+
+li::marker {
+  color: #00d8ff;
+  font-size: 1.5rem;
+}
