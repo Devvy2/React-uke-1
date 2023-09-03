@@ -9,4 +9,4 @@ This is a school project with React
 
 # Screenshots:
 
-![ReactPage](public/images/Reactpage.png)![VitePage](public/Vitepage.png)
+![Alt text](public/images/Reactpage.png)![Alt text](public/images/Vitepage.png)
