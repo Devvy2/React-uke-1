@@ -1,8 +1,12 @@
-# React + Vite
+# Project will include the following:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a school project with React
 
-Currently, two official plugins are available:
+1.  Made a Navbar with a dropdown menu to navigate between two pages.
+2.  Made a UL list of fun facts that is reusable on both pages.
+3.  Made a ProjectCard that includes an image, title and a description. that is also reusable as a component.
+4.  Made a base layout that will be used for both pages.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Screenshots:
+
+![ReactPage](public/images/Reactpage.png)![VitePage](public/Vitepage.png)
